@@ -6,3 +6,6 @@ The dataset contains information about 23 species of gilled mushrooms in the Aga
 The goal is to determine the classifier with the highest precision.
 
 Results falsely determined to be edible pose a great health risk.
+
+
+Defne Aydin, Timur Gordon
